@@ -1,2 +1,3 @@
 hello
 good morning
+这是一个测试
